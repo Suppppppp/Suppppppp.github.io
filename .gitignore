@@ -15,3 +15,6 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+# Don't upload on your repository
+Gemfile.lock
