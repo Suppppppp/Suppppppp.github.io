@@ -617,7 +617,8 @@ $sidebar-display: "sidebar-display";
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: var(--sidebar-bg);
+  // background: var(--sidebar-bg);
+  background-image: url('/assets/img/sidebar_img_yellowpurpleSmoke.jpeg');
 
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
@@ -679,13 +680,14 @@ $sidebar-display: "sidebar-display";
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
-      color: rgba(134, 133, 133, 99%);
+      color: rgba(250,128,114, 99%);  // avata 사진 밑에 글자 색상
     }
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--sidebar-muted-color);
+    // color: var( --sidebar-muted-color);
+    color: var(--sidebar-custom-subtitle-color); //subtitle 글자 색상 만든거 적용 Light,dark둘다
     line-height: 1.2rem;
     word-spacing: 1px;
     margin: 0.5rem 1.5rem 0.5rem 1.5rem;
@@ -710,6 +712,7 @@ $sidebar-display: "sidebar-display";
     &.active {
       .nav-link {
         color: var(--sidebar-active-color);
+        // color: var(--sidebar-custom-subtitle-color);
       }
     }
 
@@ -817,7 +820,8 @@ $sidebar-display: "sidebar-display";
     .icon-border {
       @extend %no-cursor;
 
-      background-color: var(--sidebar-muted-color);
+      // background-color: var(--sidebar-muted-color);
+      background-color: var(--sidebar-custom-subtitle-color); // subtile글자색상으로 border적용
       content: "";
       width: 3px;
       height: 3px;
