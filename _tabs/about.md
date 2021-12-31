@@ -1,103 +1,36 @@
 ---
-title: About
 icon: fas fa-info-circle
 order: 4
+toc: True
 ---
 
+# A Person that always challenges
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+## info
+- e-mail : u1316@daum.net
+- blog : Suppppppp.github.io
 
+## Education
 
-Johnny Coder
-============
+- 2013.03 ~ 2022.02(Expected to graduation) :: Hanyang Univ.(Erica)
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+------
+## Experience.
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+- 2021.04 ~ 2021.09 ::  FromNode 창업팀 합류
+- 2021.02 ~ 2021.04 :: Pet Doctor 창업
+- 2020.07 ~ 2021.01 :: Write paper
+    - Ovaso : Intergrated Binary CNN Models to Classfiy COVID-19, Pneumonia and Healthy Lung in X-ray Images
+        - Role : Paper research,Bottenlneck test(change by location),Experiment with differences between models by parameter
+- 2019.12 ~ 2020.02 :: Run Deep learning basic program in Modulabs
+- 2019.11 :: Google developer group Devfest on campus 2019 ML/AI 부분 튜터참여
+    - Role : Deep learning tutorial(Fashion Mnist and etc) Explanation for students
+  
+- 2019.08 ~ 2019.12 :: EstSoft AI reserach,Product team Intern
+    - Role : Data crawling(Dog images),Make pipline and structuresabout App,  Google analytics install in company site
+- 2019.08 ~ for a year :: DSC(Developer Student Clubs in google) Korea  
+- 2019.03 ~ 2019.06 :: Yuhan-kimberly Online shop (MomQ) Customer clustering & analysis project
+     - Role : Data crawling(Dog images),Make pipline and structuresabout App ,Google analytics install in company site
+- 2018.08 ~ for a year :: BITAmin (Big data analysis club )
+ 
+---
