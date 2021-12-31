@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko-KR
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
@@ -33,8 +33,8 @@ url: 'https://Suppppppp.github.io'
 github:
   username: Suppppppp             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+facebook:
+  username: kyungsupgo            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,11 +43,11 @@ social:
   email: u1316@daum.net             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/Suppppppp       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/kyungsup
+    - https://www.linkedin.com/in/kyungsup
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
