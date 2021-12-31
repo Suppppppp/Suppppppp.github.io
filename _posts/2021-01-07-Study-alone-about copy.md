@@ -1,7 +1,7 @@
 ---
 title: About the Study alone
 author: Kyungsup Go (Sup)
-date: 2022-12-31 01:01:00 +0900
+date: 2021-12-31 01:01:00 +0900
 categories: [Study alone, About the Study alone]
 
 tags: [About the Study alone]
@@ -14,3 +14,5 @@ comments: true
 내용들을 습득하며 동시에 정리할 예정이라 틀린내용이 종종 있을 수 있어 틀린 내용이 있다면 언제든 댓글이나 메일로 연락주시면 감사하겠습니다.
 
 메일은 왼쪽 하단에 있습니다.
+
+

@@ -1,12 +1,13 @@
 ---
-title: About
-icon: fas fa-info-circle
-order: 4
+title: About the Study alone
+author: Kyungsup Go (Sup)
+date: 2021-12-31 01:01:00 +0900
+categories: [Resume, CVt]
+
+tags: [CVt]
+toc: True
+comments: true
 ---
-
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
-
 
 Johnny Coder
 ============
