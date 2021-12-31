@@ -16,4 +16,24 @@ comments: true
 메일은 왼쪽 하단에 있습니다.
 
 
-<iframe width="750" height="450" src="https://www.youtube.com/embed/kUfNsdfcZWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="450" src="https://www.youtube.com/watch?v=UcE7ARU53vM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<details>
+<summary>토글 시 </summary>
+<div markdown="1">
+
+메메ㄹ
+
+   <details>
+   <summary>토글 두번 </summary>
+   <div markdown="1">
+   제발
+   </div>
+   </details>
+
+</div>
+</details>
+
+
+이건 떠지
