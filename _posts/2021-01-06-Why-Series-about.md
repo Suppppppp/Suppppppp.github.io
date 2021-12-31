@@ -1,7 +1,7 @@
 ---
 title: About Why Series
 author: Kyungsup Go (Sup)
-date: 2020-12-24 18:00:00 +0900
+date: 2021-12-31 18:00:00 +0900
 categories: [Why Series, About the Why Series]
 
 tags: [About the Why Series]

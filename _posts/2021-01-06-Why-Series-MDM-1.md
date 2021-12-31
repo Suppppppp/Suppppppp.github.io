@@ -1,7 +1,7 @@
 ---
 title: 로그변환과 np.log()가 아닌 np.log1p()를 하는 이유
 author: Kyungsup Go (Sup)
-date: 2020-08-20 18:00:00 +0900
+date: 2021-12-31 18:00:00 +0900
 categories: [Why Series, ML DL Math]
 
 tags: [why np.log1p(), why log transformation]

@@ -1,7 +1,7 @@
 ---
 title: About the Study alone
 author: Kyungsup Go (Sup)
-date: 2021-01-07 01:01:00 +0900
+date: 2022-12-31 01:01:00 +0900
 categories: [Study alone, About the Study alone]
 
 tags: [About the Study alone]

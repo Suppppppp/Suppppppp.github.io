@@ -1,7 +1,7 @@
 ---
 title: (CS50) 1주차 - 컴퓨팅사고  
 author: Kyungsup Go (Sup)
-date: 2021-01-13 15:00:00 +0900
+date: 2021-12-31 15:00:00 +0900
 categories: [Class and Study, CS50 coaching study]
 
 tags: [CS50, boostcourse, computer Thinking, binary system, Digital signal]
