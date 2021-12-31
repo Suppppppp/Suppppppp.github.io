@@ -16,4 +16,4 @@ comments: true
 메일은 왼쪽 하단에 있습니다.
 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/kUfNsdfcZWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="450" src="https://www.youtube.com/embed/kUfNsdfcZWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
