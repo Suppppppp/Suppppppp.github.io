@@ -123,3 +123,15 @@ comments: true
 ![petdoc_ericapage](/assets/img/portfolio/bitamin_presentation.jpg)*학회 발표장면*
 </div>
 </details>
+
+
+## Extracurricular activities
+
+
+<details>
+<summary> A couple of times. :: Won several futsal tournaments</summary>
+<div markdown="1">
+
+![petdoc_ericapage](/assets/img/portfolio/futsal_prize.png)*전국체전 풋살부문 우승*
+</div>
+</details>

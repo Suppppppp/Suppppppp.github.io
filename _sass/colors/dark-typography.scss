@@ -31,7 +31,8 @@
   --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
   --sidebar-muted-color: #6d6c6b;
   --sidebar-custom-subtitle-color: 	#FFFFFF; // subtitle 글자 색상 만든 거 dark모드
-  --sidebar-active-color: rgb(255 255 255 / 80%);
+  // --sidebar-active-color: rgb(255 255 255 / 80%); # 기존의 sidebar 글자 (home~about까지) 클릭시 변하는 색상 dark mode
+  --sidebar-active-color: rgb(255 255 51/ 80%); // 내가 변경한 sidebar 글자 (home~about까지) 클릭시 변하는 색상
   --nav-cursor-color: rgb(183, 182, 182);
   --sidebar-btn-bg: rgb(117 116 116 / 20%);
 

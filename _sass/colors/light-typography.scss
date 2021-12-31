@@ -29,7 +29,8 @@
   --sidebar-bg: #eeeeee;
   --sidebar-muted-color: #a2a19f;
   --sidebar-custom-subtitle-color: #FFFFFF; // subtitle 글자 색상 만든 거 light모드
-  --sidebar-active-color: #424242;
+  // --sidebar-active-color: rgb(255 255 255 / 80%); # 기존의 sidebar 글자 (home~about까지) 클릭시 변하는 색상
+  --sidebar-active-color: rgb(255 255 51/ 80%); // 내가 변경한 sidebar 글자 (home~about까지) 클릭시 변하는 색상
   --nav-cursor-color: #757575;
   --sidebar-btn-bg: white;
 
