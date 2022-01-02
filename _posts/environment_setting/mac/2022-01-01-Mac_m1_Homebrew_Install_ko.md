@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2021-01-01 00:00:00 +0900
 categories: [Environment setting, Mac M1]
 
-tags: [Mac,MacOS,M1,M1 pro,Apple silicon]
+tags: [Mac,MacOS,M1,M1 pro,Apple silicon,Homebrew]
 toc: True
 comments: true
 ---
