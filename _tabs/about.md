@@ -20,7 +20,7 @@ toc: True
 
 - 2021.04 ~ 2021.09 ::  FromNode 창업팀 합류
 - 2021.02 ~ 2021.04 :: Pet Doctor 창업
-- 2020.07 ~ 2021.01 :: Write paper
+- 2020.07 ~ 2021.01 :: Write a paper
     - Ovaso : Intergrated Binary CNN Models to Classfiy COVID-19, Pneumonia and Healthy Lung in X-ray Images
         - Role : Paper research,Bottenlneck test(change by location),Experiment with differences between models by parameter
 - 2019.12 ~ 2020.02 :: Run Deep learning basic program in Modulabs

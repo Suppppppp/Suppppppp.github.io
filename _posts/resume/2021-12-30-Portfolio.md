@@ -20,6 +20,7 @@ comments: true
 </details>
 
 ---
+<!-- -------- start up --------------------------------------------------------------- -->
 ## ⭐️ Start up
 
 <details>
@@ -31,7 +32,7 @@ comments: true
   - 참여자들의 파일 업로드시 이전 파일과의 변화점을 checking하여 자동으로 알려주는 기능계획
   - 홈페이지 구현
     
-![petdoc_ericapage](/assets/img/portfolio/fromnode_planning.png)
+![fromnode_planning](/assets/img/portfolio/fromnode_planning.png)
 </div>
 </details>
 
@@ -59,11 +60,11 @@ comments: true
 ![petdoc_ericapage](/assets/img/portfolio/startup_consulting.png)
 </div>
 </details>
-
+<!-- ---------paper---------------------------------------------------------------   -->
 ## Paper
 
 <details>
-<summary>⭐️ 2020.07 ~ 2021.01 :: Write paper (Ovaso)</summary>
+<summary>⭐️ 2020.07 ~ 2021.01 :: Write a paper (Ovaso)</summary>
 <div markdown="1">
 
 **Ovaso : Intergrated Binary CNN Models to Classfiy COVID-19, Pneumonia and Healthy Lung in X-ray**
@@ -75,7 +76,7 @@ comments: true
 </div>
 </details>
 
-
+<!-- --------- Relevant Activities ---------------------------------------------------------------  -->
 ## Relevant Activities
 
 <details>
