@@ -1,5 +1,5 @@
 ---
-title: Mac m1 Xcode 설치(App Store 말고!!)
+title: Mac M1 Xcode 설치(App Store 말고!!)
 author: Kyungsup Go (Sup)
 date: 2021-01-01 00:00:00 +0900
 categories: [Environment setting, Mac M1]
@@ -9,14 +9,13 @@ toc: True
 comments: true
 ---
 
-# Mac m1 Xcode 설치(App Store 말고!!)
-
 
 window에서 넘어온 mac으로 넘어온 가장 큰 이유는 ios개발을 위해서는 mac을 사용해야하는 것이었기 때문에 ios개발에 필요한 Apple macOS 전용 IDE인 Xcode를 설치해보도록 하겠습니다.
 <br>사실 App store에 검색만하면 Xcode가 있는데 왜 굳이 이런글을 쓸까 싶을 수도 있는데 xcode 설치로 구글링을 조금만 해보면 알 수 있습니다. 아래는 Xcode 설치를 검색해본 것인데 App store를 통해 설치를 하는 것이 얼마나많은 장애(?)가 있는지 선배개발자님들의 고생이 보입니다. 
 
 ![0](https://drive.google.com/uc?id=1rice2uyyhanA5CrIwhsZ2VHwTmeJgc9o){: width="500" height="300"}
 
+![0](https://drive.google.com/uc?export=view&id=1rice2uyyhanA5CrIwhsZ2VHwTmeJgc9o){: width="500" height="300"}<br>
 그래서 여러 글을 탐독한 결과 App store가 아닌 Apple developer사이트에서 직접다운받는 것이 제일 좋다고 하여 그 방법으로 진행해보겠습니다.<br>[여기](https://developer.apple.com/develop/)  로 들어가서 Develop -> Downloads를 클릭해줍니다.(저는 이미 들어가서 화면이 살짝 다를 수 있으나 홈페이지 상단에 Develop을 누르면 같은 화면으로 나타납니다)
 
 ![Untitled](https://drive.google.com/uc?id=1URSU53W2XU1Yh5iTMDlVrgXPtRsi8Ylx){: width="400" height="200"}
