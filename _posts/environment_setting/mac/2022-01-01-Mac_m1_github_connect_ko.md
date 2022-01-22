@@ -11,7 +11,7 @@ comments: true
 
 # Github 인증방식의 변경
 
-글 작성에 앞서 이 글은 github의 기본적인 작동(?)순서를 알고 있다고 가정하고 설명을 진행합니다.<br>
+글 작성에 앞서 이 글은 github의 기본적인 작동(?)순서를 알고 있다고 가정하고 설명을 진행합니다.<br>(git설치가 되어있어야되므로 안되어 있으신 분들은 제 [이전 글](https://suppppppp.github.io/posts/Mac_M1_git-install_ko/)을 참고하세요.)<br>
 모르시는 분들은 이 링크([링크1](https://sin0824.tistory.com/8), [링크2](https://kkaeruk.tistory.com/3))의 순서를 참고하세요.<br>순서만 알고 내용을 따라하지는 말으시길 권장합니다 그 이유가 있습니다.
 
 그 이유는 2021년 8월 13일부터 github에 Push할 때 인증방법이 바뀌었습니다.<br>

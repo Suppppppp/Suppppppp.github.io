@@ -11,7 +11,7 @@ comments: true
 
 Window에서 M1으로 넘어오고 하나씩 필수적인 것들을 설치하고 있는데 이번엔 git을 설치하겠습니다.<br>
 git은 먼저 Homebrew를 통하여 설치하는 것을 추천드립니다.<br>
-Homebrew라는 것을 설치하기 싫으실 분이 계실 수도 있는데 아래의 사진에서처럼 공식홈페이지에서도 Homebrew를 설치하라고 말하고 있으니 안정적인 멘탈유지를 위해 시키는대로 설치 해줍니다.<br>
+Homebrew라는 것을 설치하기 싫으실 분이 계실 수도 있는데 아래의 사진에서처럼 공식홈페이지에서도<br>Homebrew를 설치하라고 말하고 있으니 안정적인 멘탈유지를 위해 시키는대로 설치 해줍니다.<br>
 설치방법은 예전에 작성한 설치글을 링크로 남겨드립니다.<br> 
 [Homebrew 설치](https://suppppppp.github.io/posts/Mac_m1_Homebrew_Install_ko/)
 
