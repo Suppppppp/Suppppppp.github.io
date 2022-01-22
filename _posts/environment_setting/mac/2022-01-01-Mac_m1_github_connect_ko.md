@@ -26,7 +26,7 @@ fatal: unable to access 'https://github.com/userName/repoName.git/': The request
 # SSH 연결
 각각의 방식에 대한 장단점은 아래처럼 정리해 볼 수 있습니다.<br>(실제로 하나의 Mac에서 여러 github을 사용할 경우 ssh를 사용하여 할 수 있습니다.)
 ![Untitled](/assets/img/environment_setting/mac/Mac_m1_github_connect/Untitled_0.png){: width="400" height="200"}*[출처](https://blog.neonkid.xyz/277)*<br>
-이 글에서는 ssh key 기준으로 github을 연결해보겠습니다.  (token이 편하신 분들을 위해 글 맨 마지막 하단에 잘 설명되어있는 링크들 달아 놓겠습니다.)<br> 
+이 글에서는 ssh key 기준으로 github을 연결해보겠습니다.<br>(token이 편하신 분들을 위해 글 맨 마지막 하단에 잘 설명되어있는 링크들 달아 놓겠습니다.)<br> 
 [공식 Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)에 나와있는 ssh key 연결 방법입니다. <br>
 ssh key 연결방법이 영어로 나와 있으므로 불편하실 분들을 위해 저의 방식대로 정리해보겠습니다.
 
@@ -37,7 +37,7 @@ ssh key 연결방법이 영어로 나와 있으므로 불편하실 분들을 위
 5. 연결확인을 위한 Test
  
 
-순으로 진행하겠습니다. (본인이 이미 진행하신 부분이 있다면 다음부터 보시면 됩니다.) 
+순으로 진행하겠습니다.<br>(본인이 이미 진행하신 부분이 있다면 다음부터 보시면 됩니다.) 
 
 ## 1. SSH key란??
 
@@ -91,14 +91,14 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 
 
-![스크린샷 2021-12-22 오후 6.53.34.png](/assets/img/environment_setting/mac/Mac_m1_github_connect/스크린샷_2021-12-22_오후_6.53.34.png)
+![capture_1](/assets/img/environment_setting/mac/Mac_m1_github_connect/capture_1.png)
 
 
 위의 코드를 터미널에 입력해주면 중간중간 물어보는 게 나옵니다.
 1. 어디 경로에 그리고 이름은 뭘로 만들거야?   Enter file in which to save the key (/Users/계정명/.ssh/ ~~
 2. 비밀번호는 따로 설정할거야?  Enter passphrase (empty for no passphrase): ~~ 
 
-![스크린샷 2021-12-22 오후 6.53.48.png](/assets/img/environment_setting/mac/Mac_m1_github_connect/스크린샷_2021-12-22_오후_6.53.48.png)
+![capture_2](/assets/img/environment_setting/mac/Mac_m1_github_connect/capture_2.png)
 
 2-1 한번더 입력해줘  
 
@@ -107,7 +107,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 1번의 경우 Enter(Mac이므로 return키)를 입력하면 기본경로에 생성되고 2번의 경우 따로 비밀번호 설정 안 할 경우 동일하게 Enter(return)을 입력해주면 됩니다.<br>(github에서는 비밀번호를 권장하지만 저는 그냥 귀찮음의 문제로 하지 않았으나 중요한게 많으신 분들은 나중에라도 지정이 가능하니 설정하는 걸 추천드립니다.)<br>
 그래서 모두 다 입력하면 아래처럼 다 만들어 졌다고 나옵니다.
 
-![스크린샷 2021-12-22 오후 7.05.25.png](/assets/img/environment_setting/mac/Mac_m1_github_connect/스크린샷_2021-12-22_오후_7.05.25.png)
+![capture_3](/assets/img/environment_setting/mac/Mac_m1_github_connect/capture_3.png)
 
 잘 생성되었는지 터미널을 열어 ls -al로 확인해주면 기존에는 없던 .ssh 경로가 생성되었고 그 안에 파일이 있는 것을 볼 수 있습니다.
 
@@ -116,7 +116,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ssh 경로로 이동해보면 `id_ed25519` (private key)와 `id_ed25519.pub` (public key) 2가지가 생성되었음을 알 수 있습니다.<br>(***public key***와 ***private key***내용이 궁금하신 분들은 위에 설명을 달아놓은 ssh key동작방식을 읽어보세요 )<br>
 만약 `ed25519` 방식으로 Key를 만들어 주었다면 `id_ed25519` 와 `id_ed25519.pub` 두 개가 마찬가지로 생성됩니다.
 
-![스크린샷 2021-12-22 오후 7.09.42.png](/assets/img/environment_setting/mac/Mac_m1_github_connect/스크린샷_2021-12-22_오후_7.09.42.png)
+![capture_4](/assets/img/environment_setting/mac/Mac_m1_github_connect/capture_4.png)
 
 ## 3. 발급받은 ssh key를 github에 등록
 
@@ -260,6 +260,7 @@ git push origin master
 
 ---
 ---
+---
 # 참고
 - 📚 ref
 >
@@ -273,11 +274,10 @@ git push origin master
 [https://cresumerjang.github.io/2020/11/15/multiple-GitHub-accounts-on-a-single-machine-with-SSH-keys/](https://cresumerjang.github.io/2020/11/15/multiple-GitHub-accounts-on-a-single-machine-with-SSH-keys/)<br>
     
 ---
-
 - 📚 token방식으로 github연결 글 링크
-
-> [token 방법 공식 docs (영어버전 한국어버전은 없습니다)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)<br>
->⬇️개인블로그<br>
+>
+[token 방법 공식 docs (영어버전 한국어버전은 없습니다)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)<br>
+⬇️개인블로그<br>
 [https://hyeo-noo.tistory.com/184](https://hyeo-noo.tistory.com/184)<br>
 [https://curryyou.tistory.com/344](https://curryyou.tistory.com/344)<br>
 [https://velog.io/@jini_eun/Github-2021년-8월-13일부터-토큰-인증-로그인-변화](https://velog.io/@jini_eun/Github-2021%EB%85%84-8%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%ED%86%A0%ED%81%B0-%EC%9D%B8%EC%A6%9D-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B3%80%ED%99%94)<br>

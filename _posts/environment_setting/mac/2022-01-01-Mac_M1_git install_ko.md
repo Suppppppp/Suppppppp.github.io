@@ -33,4 +33,4 @@ brew install git
 
 github 연결은 다음 글을 참고해주세요.
 
-다음글
+[다음글](https://suppppppp.github.io/posts/Mac_m1_github_connect_ko/)
