@@ -23,7 +23,7 @@ Apple Silicon( 흔히 말하는 m1)용 Homebrew는 2021년 2월 경 3.0.0부터 
 [https://brew.sh/](https://brew.sh/)   공식 홈페이지로 들어가줍니다. 
 
 ![Untitled](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled.png){: width="400" height="200"}
-들어가게 되면 언어가 english로 되어있는데 한국어로 변경이 가능하니 불편하신 분들은 바꿔주시면 되겠습니다.
+<br>들어가게 되면 언어가 english로 되어있는데 한국어로 변경이 가능하니 불편하신 분들은 바꿔주시면 되겠습니다.
 Install Homebrew 아래의 명령어가 있는데 맨 오른쪽 버튼을 누르면 자동으로 복사가 됩니다. 이 복사된 내용을 터미널에 입력해줍니다.
 
 ![Untitled1](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled_1.png)
