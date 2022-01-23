@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2022-01-01 00:00:05 +0900
 categories: [Environment setting, Mac M1]
 
-tags: [Mac,MacOS,M1,M1 pro,Apple silicon,VScode]
+tags: [Mac,M1,M1 pro,Apple silicon,VScode]
 toc: True
 comments: true
 ---
@@ -22,7 +22,7 @@ VScode 다운로드 방법은 크게 2가지 입니다.<br>
 
 ## A. Homebrew를 통한 설치
 먼저 ***A***는 빠르고 간단합니다.<br>다만 Homebrew를 모르시는 분들이 있을 수 있으므로 링크의 제 글을 참고해주세요 ➡️
-[Homebrew설치](https://suppppppp.github.io/posts/Mac_m1_Homebrew_Install_ko/)
+[Homebrew설치](https://suppppppp.github.io/posts/Mac_m1_Homebrew_Install_ko/)<br>
 Homebrew설치가 끝났다면 터미널 상에서 아래의 한 줄을 입력해주면 설치가 완료됩니다.<br>
 (brew는 `—-cask`는 기본으로 되어있어도 생략해도 되나 그냥 써줬습니다.)
 

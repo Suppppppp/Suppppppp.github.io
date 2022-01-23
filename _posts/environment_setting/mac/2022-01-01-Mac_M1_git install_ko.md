@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2022-01-01 00:00:01 +0900
 categories: [Environment setting, Mac M1]
 
-tags: [Mac,MacOS,M1,M1 pro,Apple silicon,git]
+tags: [Mac,M1,M1 pro,Apple silicon,git]
 toc: True
 comments: true
 ---

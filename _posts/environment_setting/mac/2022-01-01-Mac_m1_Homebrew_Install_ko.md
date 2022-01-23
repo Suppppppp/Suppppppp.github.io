@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2022-01-01 00:00:00 +0900
 categories: [Environment setting, Mac M1]
 
-tags: [Mac,MacOS,M1,M1 pro,Apple silicon,Homebrew]
+tags: [Mac,M1,M1 pro,Apple silicon,Homebrew]
 toc: True
 comments: true
 ---
@@ -26,7 +26,7 @@ Apple Silicon( 흔히 말하는 m1)용 Homebrew는 2021년 2월 경 3.0.0부터 
 <br>들어가게 되면 언어가 english로 되어있는데 한국어로 변경이 가능하니 불편하신 분들은 바꿔주시면 되겠습니다.
 Install Homebrew 아래의 명령어가 있는데 맨 오른쪽 버튼을 누르면 자동으로 복사가 됩니다. 이 복사된 내용을 터미널에 입력해줍니다.
 
-![Untitled1](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled_1.png)
+![Untitled1](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled_1.png){: width="400" height="200"}
 
 터미널은 spotlight(`Cmd`+`Space bar`)로 터미널을 검색하면 들어갈 수 있습니다.  붙여넣기는 `Cmd` + `V` 입니다. 
 
@@ -36,7 +36,6 @@ Install Homebrew 아래의 명령어가 있는데 맨 오른쪽 버튼을 누르
 <br>
 
 ![Untitled](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled_3.png)
-
 ![Untitled](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled_4.png)
 
 다시 리턴키를 눌러주면  아래처럼 진행됩니다. 몇 분정도가 소요되니 기다려주세요 
@@ -48,7 +47,7 @@ Install Homebrew 아래의 명령어가 있는데 맨 오른쪽 버튼을 누르
 ![Untitled](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled_6.png){: width="500" height="300"}
 
 설치가 완료되면 아래처럼 나옵니다.
-그런데 Warning부분을 읽어보면 Path가 문제가 있다고 알려줍니다. 그래서 Next step에 있는 Path를 그대로 복사해서 입력후 리턴(엔터)을 눌러줍니다
+그런데 Warning부분을 읽어보면 Path가 문제가 있다고 알려줍니다.<br>그래서 Next step에 있는 Path를 그대로 복사해서 입력후 리턴(엔터)을 눌러줍니다
 
 ![Untitled](/assets/img/environment_setting/mac/Mac_m1_Homebrew_Install/Untitled_7.png){: width="500" height="300"}
 
