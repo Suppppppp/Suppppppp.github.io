@@ -1,7 +1,7 @@
 ---
 title: Mac M1 github 연결하기
 author: Kyungsup Go (Sup)
-date: 2021-01-01 00:00:00 +0900
+date: 2022-01-01 00:00:02 +0900
 categories: [Environment setting, Mac M1]
 
 tags: [Mac,MacOS,M1,M1 pro,Apple silicon,github]
@@ -15,7 +15,12 @@ comments: true
 모르시는 분들은 이 링크([링크1](https://sin0824.tistory.com/8), [링크2](https://kkaeruk.tistory.com/3))의 순서를 참고하세요.<br>순서만 알고 내용을 따라하지는 말으시길 권장합니다 그 이유가 있습니다.
 
 그 이유는 2021년 8월 13일부터 github에 Push할 때 인증방법이 바뀌었습니다.<br>
-이전에는 Password로 인증을 진행한 후 push가 가능했지만 이제는 **PAT**(Personal Access Token)와 **SSH key** 방식 2가지로만 가능합니다.  그래서 21년 8월 기준으로 이전 글들을 보시고 따라하시면 push할 때 오류가 생깁니다.<br>아래는 기존에 사용하던 Password방식으로 인증했을 때 나오는 문구입니다.  [공식 github에서 인증방식 변경에 관한 글](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+이전에는 Password로 인증을 진행한 후 push가 가능했지만 이제는 
+
+- **PAT**(Personal Access Token)
+- **SSH key** 
+
+2가지로만 가능합니다.  그래서 21년 8월 기준으로 이전 글들을 보시고 따라하시면 push할 때 오류가 생깁니다. 아래는 기존에 사용하던 Password방식으로 인증했을 때 나오는 문구입니다. <br>[공식 github에서 인증방식 변경에 관한 글](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 
 ```zsh
 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.

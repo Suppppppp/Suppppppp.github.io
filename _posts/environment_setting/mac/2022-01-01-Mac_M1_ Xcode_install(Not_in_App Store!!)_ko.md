@@ -1,7 +1,7 @@
 ---
 title: Mac M1 Xcode 설치(App Store 말고!!)
 author: Kyungsup Go (Sup)
-date: 2021-01-01 00:00:00 +0900
+date: 2022-01-01 00:00:03 +0900
 categories: [Environment setting, Mac M1]
 
 tags: [Mac,MacOS,M1,M1 pro,Apple silicon,Xcode]
