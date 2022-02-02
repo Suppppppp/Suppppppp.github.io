@@ -2,7 +2,7 @@
 title: Customize the Favicon
 author: Cotes Chung
 date: 2019-08-11 00:34:00 +0900
-categories: [Blogging, Tutorial]
+categories: [Resume, Blogging]
 tags: [favicon]
 toc: false
 comments: true

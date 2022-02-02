@@ -2,7 +2,7 @@
 title: 네이버 부스트코스 CS50 코칭스터디 2기 OT
 author: Kyungsup Go (Sup)
 date: 2021-12-31 15:00:00 +0900
-categories: [Class and Study, CS50 coaching study]
+categories: [Computer Science, CS50 coaching study]
 
 tags: [CS50, boostcourse]
 toc: True

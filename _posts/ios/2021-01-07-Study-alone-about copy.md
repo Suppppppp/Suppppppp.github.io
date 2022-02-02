@@ -1,10 +1,10 @@
 ---
-title: About the Study alone
+title: 100day swfit
 author: Kyungsup Go (Sup)
-date: 2021-12-31 01:01:00 +0900
-categories: [Study alone, About the Study alone]
+date: 2022-02-01 01:01:00 +0900
+categories: [IOS, 100day swift]
 
-tags: [About the Study alone]
+tags: [ios, 100day swift]
 toc: True
 comments: true
 ---
