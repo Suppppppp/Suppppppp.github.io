@@ -32,7 +32,7 @@ comments: true
   - 참여자들의 파일 업로드시 이전 파일과의 변화점을 checking하여 자동으로 알려주는 기능계획
   - 홈페이지 구현
     
-![fromnode_planning](/assets/img/portfolio/fromnode_planning.png)
+![fromnode_planning](/assets/img/resume/portfolio/fromnode_planning.png)
 </div>
 </details>
 
@@ -45,7 +45,7 @@ comments: true
 - **Role : AI 이미지 분석 및 기획**
   - AI이미지 분석으로 반려동물의 대변을 분석해 건강상태를 알려주는 솔루션
   - 병원동물에게 정보제공을 가능케하는 어플리케이션 연동계획
-![petdoc_ericapage](/assets/img/portfolio/petdoc_ericapage.png)
+![petdoc_ericapage](/assets/img/resume/portfolio/petdoc_ericapage.png)
 </div>
 </details>
 
@@ -57,7 +57,7 @@ comments: true
 
 - 교내 창업팀을 대상으로 컨설팅을 받을 수 있는 수업에 참여하였습니다.
     
-![petdoc_ericapage](/assets/img/portfolio/startup_consulting.png)
+![petdoc_ericapage](/assets/img/resume/portfolio/startup_consulting.png)
 </div>
 </details>
 <!-- ---------paper---------------------------------------------------------------   -->
@@ -89,7 +89,7 @@ comments: true
   - scratch부터 시작하는 code 해설 
   
 
-![petdoc_ericapage](/assets/img/portfolio/basicdeeplearning_modulabs.png){: width="400" height="200"}
+![petdoc_ericapage](/assets/img/resume/portfolio/basicdeeplearning_modulabs.png){: width="400" height="200"}
 </div>
 </details>
 
@@ -105,7 +105,7 @@ comments: true
     - [code_패션 MNIST 이미지 분류하기](https://colab.research.google.com/drive/1mMb0lI-lfBcv6iiH7ZUdohtVxjOWvJTo?usp=sharing)
     - [code_신경망과의 첫 만남(손글씨 분류)](https://colab.research.google.com/drive/1xv42xjAy75_1xGehz0QbkWDbrPYdylhK?usp=sharing)
     - [code_뉴스기사 분류 해보기](https://colab.research.google.com/drive/1daW4s3tSEYF_nr_bhQQKi214wZxpE7xW?usp=sharing)
-![petdoc_ericapage](/assets/img/portfolio/gdg-campus-2019.png)
+![petdoc_ericapage](/assets/img/resume/portfolio/gdg-campus-2019.png)
 </div>
 </details>
 
@@ -114,7 +114,7 @@ comments: true
 <summary> 2019.07 Keras korea 2nd Deep learning conference participation</summary>
 <div markdown="1">
 
-![petdoc_ericapage](/assets/img/portfolio/keras-korea.png){: width="400" height="200"}*컨퍼런스 종료 후*
+![petdoc_ericapage](/assets/img/resume/portfolio/keras-korea.png){: width="400" height="200"}*컨퍼런스 종료 후*
 </div>
 </details>
 
@@ -122,7 +122,7 @@ comments: true
 <summary> 2018.08 ~ for a year :: BITAmin (Big data analysis club )</summary>
 <div markdown="1">
 
-![petdoc_ericapage](/assets/img/portfolio/bitamin_presentation.jpg)*학회 발표장면*
+![petdoc_ericapage](/assets/img/resume/portfolio/bitamin_presentation.jpg)*학회 발표장면*
 </div>
 </details>
 
@@ -134,6 +134,6 @@ comments: true
 <summary> A couple of times. :: Won several futsal tournaments</summary>
 <div markdown="1">
 
-![petdoc_ericapage](/assets/img/portfolio/futsal_prize.png)*전국체전 풋살부문 우승*
+![petdoc_ericapage](/assets/img/resume/portfolio/futsal_prize.png)*전국체전 풋살부문 우승*
 </div>
 </details>

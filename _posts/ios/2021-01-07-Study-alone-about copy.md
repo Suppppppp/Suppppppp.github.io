@@ -1,10 +1,10 @@
 ---
-title: 100day swfit
+title: 100days Of Swfit
 author: Kyungsup Go (Sup)
 date: 2022-02-01 01:01:00 +0900
-categories: [IOS, 100day swift]
+categories: [IOS, 100days Of Swfit]
 
-tags: [ios, 100day swift]
+tags: [ios, 100days Of Swfit]
 toc: True
 comments: true
 ---

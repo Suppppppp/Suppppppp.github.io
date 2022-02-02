@@ -1,5 +1,5 @@
 ---
-title: Text and Typography
+title: Text and Typography (문법)
 author: Cotes Chung
 date: 2019-08-08 11:33:00 +0900
 categories: [Resume, Blogging]
@@ -56,6 +56,52 @@ image: /assets/img/sample/devices-mockup.png
 
 > This line to shows the Block Quote.
 
+---
+
+## Toggle (토글)
+
+<details>
+<summary> 💡 토글할 내용 </summary>
+<div markdown="1">
+
+이렇게 내용을 적어줍니다.
+
+</div>
+</details>
+
+
+### Toggle in list (목록형태로 토글)
+
+-  <details><summary> 💡 목록형태 토글1 </summary><div markdown="1">이렇게 내용을 적어줍니다.
+
+-  <details><summary> 💡 목록형태 토글2 </summary><div markdown="1">이렇게 내용을 적어줍니다.
+-  동해물과 백두산이 마르고 닳도록.
+
+### Nested Toggle (중첩 토글)
+
+<details>
+<summary> 💡 첫번째 토글 </summary>
+<div markdown="1">
+
+중첩할 토글 내용은 다음의 내용입니다.
+
+-  <details> <summary> 💡 목록형태로 토글할 내용 </summary><div markdown="1">이렇게 내용을 적어줍니다. 
+
+<details>
+<summary> 💡 일반형태로 토글할 내용 </summary>
+<div markdown="1">
+
+이렇게 내용을 적어줍니다.
+
+</div>
+</details>
+
+
+</div>
+</details>
+
+---
+
 ## Tables (표)
 
 | 회사                      | 연락처          | 국가 |
@@ -75,6 +121,17 @@ image: /assets/img/sample/devices-mockup.png
 
 문장 우상단의 hook을 클릭하면 각주로 이동합니다.[^footnote].
 
+
+## Youtube 
+
+Youtube 동영상 삽입에는 여러가지 방법이 있으나 제일 간단한 방법을 적습니다.
+1. 마음에 드는 Youtube동영상 화면으로 이동한다.
+2. 영상에 공유(share)버튼을 클릭한다.
+3. < > 모양의 퍼가기를 눌러준다.
+4. 해당 코드를 복사, 붙여넣기한다.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fLexgOxsZu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Images (이미지)
 
@@ -122,9 +179,9 @@ _400px 이미지 너비(width)_
   cherry :active, c, after b a, 1d
 ```
 
-## Inline code
+## Inline code (문장 코드 삽입)
 
-This is an example of `Inline Code`.
+`Inline Code`의 예시입니다.
 
 ## Mathematics (수학 표기)
 
@@ -222,6 +279,8 @@ fi;
   </div>
 </div>
 ```
+
+
 
 
 ## Reverse Footnote (각주 설명)
