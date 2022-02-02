@@ -6,7 +6,7 @@ categories: [Resume, Blogging]
 tags: [typography]
 math: true
 mermaid: true
-image: /assets/img/sample/devices-mockup.png
+image: /assets/img/resume/blogging/devices-mockup.png
 ---
 
 이 글은 [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork)에서 rendering한 마크다운 문법을 보여주며, 예제로 사용해볼 수 있습니다.<br>
@@ -127,44 +127,53 @@ image: /assets/img/sample/devices-mockup.png
 Youtube 동영상 삽입에는 여러가지 방법이 있으나 제일 간단한 방법을 적습니다.
 1. 마음에 드는 Youtube동영상 화면으로 이동한다.
 2. 영상에 공유(share)버튼을 클릭한다.
-3. < > 모양의 퍼가기를 눌러준다.
+3. `< >` 모양의 퍼가기를 눌러준다.
 4. 해당 코드를 복사, 붙여넣기한다.
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fLexgOxsZu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
+![Desktop View](/assets/img/resume/blogging/youtube_1.png) | ![Desktop View](/assets/img/resume/blogging/youtube_2.png)
+
+![Desktop View](/assets/img/resume/blogging/youtube_3.png)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fLexgOxsZu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Images (이미지)
 
 - 기본 (기본 이미지와 밑에 설명추가)
 
-![Desktop View](/assets/img/sample/mockup.png)
+![Desktop View](/assets/img/resume/blogging/mockup.png)
 _전체화면 너비(width)와 센터정렬_
 
 <br>
 
 - 특정 너비(width) 설정
 
-![Desktop View](/assets/img/sample/mockup.png){: width="400"}
+![Desktop View](/assets/img/resume/blogging/mockup.png){: width="400"}
 _400px 이미지 너비(width)_
 
 <br>
 
 - 왼쪽 정렬
 
-![Desktop View](/assets/img/sample/mockup.png){: width="350" class="normal"}
+![Desktop View](/assets/img/resume/blogging/mockup.png){: width="350" class="normal"}
 
 <br>
 
 - 본문 왼쪽에 이미지 삽입 
 
-  ![Desktop View](/assets/img/sample/mockup.png){: width="240" class="left"}
+  ![Desktop View](/assets/img/resume/blogging/mockup.png){: width="240" class="left"}
   동해물과 백두산이 마르고 닳도록. 동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.
 
 <br>
 
 - 본문 오른쪽에 이미지 삽입 
 
-  ![Desktop View](/assets/img/sample/mockup.png){: width="240" class="right"}
+  ![Desktop View](/assets/img/resume/blogging/mockup.png){: width="240" class="right"}
  동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.동해물과 백두산이 마르고 닳도록.
 
 <br>

@@ -107,7 +107,7 @@ _Image Caption_
 You can specify the width (and height) of a image with `width`:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: width="400"}
+![Desktop View](/assets/img/resume/blogging/mockup.png){: width="400"}
 ```
 
 ### Image position
@@ -119,19 +119,19 @@ By default, the image is centered, but you can specify the position by using one
   Image will be left aligned in below sample:
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: width="350" class="normal"}
+  ![Desktop View](/assets/img/resume/blogging/mockup.png){: width="350" class="normal"}
   ```
 
 - **Float to the left**
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: width="240" class="left"}
+  ![Desktop View](/assets/img/resume/blogging/mockup.png){: width="240" class="left"}
   ```
 
 - **Float to the right**
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: width="240" class="right"}
+  ![Desktop View](/assets/img/resume/blogging/mockup.png){: width="240" class="right"}
   ```
 
 > **Limitation**: Once you specify the position of an image, it is forbidden to add the image caption.
