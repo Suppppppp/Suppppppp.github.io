@@ -68,7 +68,7 @@ Swift를 배우려고 시도했다가 실패하는 많은 사람들을 자주 �
 
 제가 공부를 하나씩 할때마다 day가 추가 될 예정입니다.
 
-- [Day 1](wwww.naver.com) - 변수, 간단한 데이터 타입, string interpolation(문자열 보간법)
+- Day 1 - 변수, 간단한 데이터 타입, string interpolation(문자열 보간법)
 
 
 
