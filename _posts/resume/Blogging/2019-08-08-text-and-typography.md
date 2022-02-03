@@ -121,6 +121,10 @@ image: /assets/img/resume/blogging/devices-mockup.png
 
 문장 우상단의 hook을 클릭하면 각주로 이동합니다.[^footnote].
 
+### 각주 여러개 넣기
+
+Apple<sup>[1](#footnote_1)</sup>은 맛있어.<br>
+맛있으면 Banana<sup>[2](#footnote_2)</sup>
 
 ## Youtube 
 
@@ -295,3 +299,6 @@ fi;
 ## Reverse Footnote (각주 설명)
 
 [^footnote]: 각주 설명입니다.
+
+<sup>[1](#footnote_1)</sup>사과 <br>
+<sup>[2](#footnote_2)</sup> 바나나

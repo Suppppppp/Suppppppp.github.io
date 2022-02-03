@@ -39,6 +39,8 @@ The following table helps you understand the changes to the icon file:
 
 The next time you build the site, the icon will be replaced with a customized edition.
 
+- 글자색상 https://geniewishescometrue.tistory.com/101
+
 - 이미지 정렬에 참고할 만한 블로그<br>
     - [이미지 사이즈 및 정렬1](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html)
     - [이미지 사이즈 및 조절 2](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md)
