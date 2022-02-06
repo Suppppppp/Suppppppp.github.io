@@ -1,7 +1,7 @@
 ---
 title: (100days Of Swfit) Day1 Test:Strings and integers 번역
 author: Kyungsup Go (Sup)
-date: 2022-02-03 02:04:00 +0900
+date: 2022-02-03 02:03:00 +0900
 categories: [IOS, 100days Of Swfit - Subpages]
 
 tags: [ios, (100days Of Swfit) Test:Variables]
