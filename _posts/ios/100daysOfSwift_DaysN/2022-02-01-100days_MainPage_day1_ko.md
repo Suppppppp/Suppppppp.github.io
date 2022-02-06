@@ -23,9 +23,26 @@ Mark Twain이 말했던 것처럼 "앞서 가는 비결은 시작하는 것입�
 1. [Variables](https://suppppppp.github.io/posts/100days_SubPage_day1_Var_ko/)
 -   Optional: [Why does Swift have variables?](https://suppppppp.github.io/posts/100days_SubPage_day1_OptionWhy_ko/)
 -   Test: [Variables](https://suppppppp.github.io/posts/100days_SubPage_day1_TestVariables_ko/)
-2. Strings and integers 
-
-
+2. [Strings and integers](https://suppppppp.github.io/posts/100days_SubPage_day1_StringAndintegers_ko/)
+- Optional: Why is Swift a type-safe language?
+- Test: Strings and integers
+3. Multi-line strings
+- Optional: Why does Swift need multi-line strings?
+- Test: Multi-line strings
+4. Doubles and Booleans
+- Optional: Why does Swift need both Doubles and Integers?
+- Test: Doubles and Booleans
+5. String interpolation
+- Optional: Why does Swift have string interpolation?
+- Test: String interpolation
+6. Constants
+- Optional: Why does Swift have constants as well as variables?
+- Test: Constants
+7. Type annotations
+- Optional: Why does Swift have type annotations?
+- Test: Type annotations
+8. Simple types: Summary
+- Test: Simple types
 
 
 [🏠Main page 돌아가기](https://suppppppp.github.io/posts/100days_MainPage_ko/)
