@@ -47,6 +47,3 @@ Mark Twain이 말했던 것처럼 "앞서 가는 비결은 시작하는 것입�
 
 [🏠Main page 돌아가기](https://suppppppp.github.io/posts/100days_MainPage_ko/)
 
-
-
-(https://suppppppp.github.io/posts/100days_SubPage_day1_OptionWhyTypeSafe_ko/)
