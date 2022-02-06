@@ -1,5 +1,5 @@
 ---
-title: (100days Of Swfit) Day1 Option - Why is Swift a type-safe language? 번역
+title: (100days Of Swfit) Day1 Str&Int - Option 번역
 author: Kyungsup Go (Sup)
 date: 2022-02-03 02:02:00 +0900
 categories: [IOS, 100days Of Swfit - Subpages]
