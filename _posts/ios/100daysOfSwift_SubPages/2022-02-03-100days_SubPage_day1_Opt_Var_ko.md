@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2022-02-03 01:02:00 +0900
 categories: [IOS, 100days Of Swfit - Subpages]
 
-tags: [ios, (100days Of Swfit) Day 1 Varibales-Option]
+tags: [ios, (100days Of Swfit) Day 1, Why does Swift have variables?]
 toc: True
 comments: true
 ---

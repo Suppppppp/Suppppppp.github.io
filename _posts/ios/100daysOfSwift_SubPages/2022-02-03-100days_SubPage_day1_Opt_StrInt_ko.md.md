@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2022-02-03 02:02:00 +0900
 categories: [IOS, 100days Of Swfit - Subpages]
 
-tags: [ios, (100days Of Swfit) Day 1 , Option - Why is Swift a type-safe language?]
+tags: [ios, (100days Of Swfit) Day 1 , Why is Swift a type-safe language?]
 toc: True
 comments: true
 ---
