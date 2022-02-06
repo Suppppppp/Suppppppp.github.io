@@ -9,12 +9,7 @@ toc: True
 comments: true
 ---
 
-100days_SubPage_day1_StringAndintegers_ko
-
 <iframe width="700" height="400" src="https://www.youtube.com/embed/ZU3JDkjvn3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-https://suppppppp.github.io/posts/100days_SubPage_day1_StringAndintegers_ko/
 
 Swift는 모든 변수가 하나의 명확한 타입을 가져야만하는 typs-safe 언어로 알려져있습니다.
 Xcode가 우리를 위해 만들어준 <span style ="color : #e6196b">**Str**</span> 변수는 "Hellow, playground" 철자를 가진 문자열을 보유하고 있으므로 Swift는 <span style ="color : #e6196b">**String**</span> 타입을 할당합니다. 

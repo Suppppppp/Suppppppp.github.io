@@ -30,7 +30,7 @@ var operatingSystem = "macOS"
 <div markdown="1">
 <br>
 정답은 2번입니다.<br>
-option1은 새 변수를 만들기 위해서는 `var`와 함께 시작해야합니다 `var` message = "Good morning, Dave!"
+option1은 새 변수를 만들기 위해서는 <span style ="color : #e6196b">**var**</span>와 함께 시작해야합니다 <span style ="color : #e6196b">**var**</span> message = "Good morning, Dave!"
 <br>
 option2는 정답입니다. operatingSystem이라고 불리는 변수가 생성됩니다.
 </div>
@@ -59,7 +59,7 @@ favoriteColor = "heliotrope"
 정답은 1번입니다.<br>
 option1은 정답입니다. address라고 불리는 변수가 생성됩니다.
 <br>
-option2가 새 변수를 만들기 위해서 `var`와 함께 시작해야합니다 `var` favoriteColor = "heliotrope"
+option2가 새 변수를 만들기 위해서 <span style ="color : #e6196b">**var**</span>와 함께 시작해야합니다 <span style ="color : #e6196b">**var**</span> favoriteColor = "heliotrope"
 </div>
 </details>
 
@@ -86,7 +86,7 @@ city = "Paris"
 정답은 1번입니다.<br>
 option1은 정답입니다. dinosaur 불리는 변수가 생성됩니다.
 <br>
-option2가 새 변수를 만들기 위해서는 `var`와 함께 시작해야합니다 `var` city = "Paris"
+option2가 새 변수를 만들기 위해서는 <span style ="color : #e6196b">**var**</span>와 함께 시작해야합니다 <span style ="color : #e6196b">**var**</span> city = "Paris"
 </div>
 </details>
 
@@ -114,7 +114,7 @@ spaceship = "Nostromo"
 정답은 1번입니다.<br>
 option1은 정답입니다. pirate 불리는 변수가 생성됩니다.
 <br>
-option2가 새 변수를 만들기 위해서는 `var`와 함께 시작해야합니다 `var` spaceship = "Nostromo"
+option2가 새 변수를 만들기 위해서는 <span style ="color : #e6196b">**var**</span>와 함께 시작해야합니다 <span style ="color : #e6196b">**var**</span> spaceship = "Nostromo"
 </div>
 </details>
 
@@ -139,7 +139,7 @@ var name = "Sophie"
 <div markdown="1">
 <br>
 정답은 2번입니다.<br>
-option1가 새 변수를 만들기 위해서는 `var`와 함께 시작해야합니다 `var` status = "success"
+option1가 새 변수를 만들기 위해서는 <span style ="color : #e6196b">**var**</span>와 함께 시작해야합니다 <span style ="color : #e6196b">**var**</span> status = "success"
 <br>
 option2는 정답입니다. name라고 불리는 변수가 생성됩니다.
 </div>
@@ -170,7 +170,7 @@ user = "twostraws"
 정답은 1번입니다.<br>
 option1은 정답입니다. str 불리는 변수가 생성됩니다.
 <br>
-option2가 새 변수를 만들기 위해서는 `var`와 함께 시작해야합니다 `var` user = "twostraws"
+option2가 새 변수를 만들기 위해서는 <span style ="color : #e6196b">**var**</span>와 함께 시작해야합니다 <span style ="color : #e6196b">**var**</span> user = "twostraws"
 </div>
 </details>
 
