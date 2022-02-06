@@ -24,8 +24,6 @@ Option 2:
 var dogBreed = "samoyed"
 ```
 
-
-
 <details>
 <summary> 💡 정답 </summary>
 <div markdown="1">
