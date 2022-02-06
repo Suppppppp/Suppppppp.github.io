@@ -21,6 +21,11 @@ Mark Twain이 말했던 것처럼 "앞서 가는 비결은 시작하는 것입�
 저도 압니다 : 아래에 링크 된 것보다 더 많은 퀴즈들을 풀고 더 많은 동영상을 시청하고 싶은 유혹은 강한 것은 알지만, 명심하세요 : 서두르지 마세요 !   틈새가 큰 덩어리보다 매일 하루에 1시간씩 하는게 훨씬 낫습니다.
 
 1. [Variables](https://suppppppp.github.io/posts/100days_SubPage_day1_Var_ko/)
--   Optional: Why does Swift have variables?
--   Test: Variables
+-   Optional: [Why does Swift have variables?](https://suppppppp.github.io/posts/100days_SubPage_day1_OptionWhy_ko/)
+-   Test: [Variables](https://suppppppp.github.io/posts/100days_SubPage_day1_TestVariables_ko/)
 2. Strings and integers 
+
+
+
+
+[🏠Main page 돌아가기](https://suppppppp.github.io/posts/100days_MainPage_ko/)
