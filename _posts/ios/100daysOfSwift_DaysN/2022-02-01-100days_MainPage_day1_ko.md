@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2022-02-01 01:01:00 +0900
 categories: [IOS, 100days Of Swfit - Days N]
 
-tags: [ios, (100days Of Swfit) Day 1]
+tags: [ios, (100days Of Swfit) Day 1 ]
 toc: True
 comments: true
 ---
@@ -24,7 +24,7 @@ Mark Twain이 말했던 것처럼 "앞서 가는 비결은 시작하는 것입�
 -   Optional: Why does Swift have variables? 
 -   Test: [Variables](https://suppppppp.github.io/posts/100days_SubPage_day1_TestVariables_ko/)
 1. [Strings and integers](https://suppppppp.github.io/posts/100days_SubPage_day1_StringAndintegers_ko/)
-- Optional: [Why is Swift a type-safe language?](https://suppppppp.github.io/posts/100days_SubPage_day1_OptionWhyTypeSafe_ko.md/)
+- Optional: Why is Swift a type-safe language?
 - Test: Strings and integers
 1. Multi-line strings
 - Optional: Why does Swift need multi-line strings?

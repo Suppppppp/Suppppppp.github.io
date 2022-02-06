@@ -4,7 +4,7 @@ author: Kyungsup Go (Sup)
 date: 2022-02-02 01:01:00 +0900
 categories: [IOS, 100days Of Swfit - Subpages]
 
-tags: [ios, (100days Of Swfit) Day 1_Var]
+tags: [ios, (100days Of Swfit) Day 1 ]
 toc: True
 comments: true
 ---
