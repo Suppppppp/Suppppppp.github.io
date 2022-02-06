@@ -1,10 +1,10 @@
 ---
-title: (100days Of Swfit) Day1 동해물과 백두산이 번역
+title: (100days Of Swfit) Day1 Why does Swift have variables? 번역
 author: Kyungsup Go (Sup)
 date: 2022-02-03 01:02:00 +0900
 categories: [IOS, 100days Of Swfit - Subpages]
 
-tags: [ios, (100days Of Swfit) Day 동해물과 백두산]
+tags: [ios, (100days Of Swfit) Day 1 Opt Why does Swift have variables?]
 toc: True
 comments: true
 ---
