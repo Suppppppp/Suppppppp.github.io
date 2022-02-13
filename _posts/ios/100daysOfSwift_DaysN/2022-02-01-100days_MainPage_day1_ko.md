@@ -25,7 +25,7 @@ Mark Twain이 말했던 것처럼 "앞서 가는 비결은 시작하는 것입�
 -   Test: [Variables](https://suppppppp.github.io/posts/100days_SubPage_day1_TestVariables_ko/)
 1. [Strings and integers](https://suppppppp.github.io/posts/100days_SubPage_day1_StringAndintegers_ko/)
 - Optional: [Why is Swift a type-safe language?](https://suppppppp.github.io/posts/100days_SubPage_day1_Opt_StrInt_ko.md/)
-- Test: Strings and integers
+- Test: [Strings and integers](https://suppppppp.github.io/posts/100days_SubPage_day1_TestStringAndintegers_ko/)
 1. Multi-line strings
 - Optional: Why does Swift need multi-line strings?
 - Test: Multi-line strings
